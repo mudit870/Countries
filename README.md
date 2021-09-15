@@ -40,6 +40,11 @@ Create a web app(Using Reactjs) to display information about only countries in a
 
 ## Screenshots
 
+![Capture1](https://user-images.githubusercontent.com/84176287/133494441-43607a8e-537d-4705-9541-e2c2c4d97bf1.JPG)
+
+![Capture2](https://user-images.githubusercontent.com/84176287/133494456-8f81e098-a01f-41df-9371-f1c976af8732.JPG)
+
+![Capture3](https://user-images.githubusercontent.com/84176287/133494476-0c420354-ad37-41f1-b391-1f0fc5ddb3b7.JPG)
 
 
   
