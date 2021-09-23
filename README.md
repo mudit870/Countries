@@ -29,8 +29,6 @@ Create a web app(Using Reactjs) to display information about only countries in a
 
 ●  Clone our repository by running the command git clone https://github.com/mudit870/Countries.git
 
-●  Change directory to Countries by running cd Countries
-
 ●  And then run following two commands
 
     ●  npm install
